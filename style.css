@@ -748,7 +748,7 @@ h4 {
 }
 
 .black-background {
-    background-color: #F3976C;
+    background-color: rgba(165,147,99,.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -1038,3 +1038,4 @@ h4 {
 .text-center1 {
     text-align: center;
 }
+
