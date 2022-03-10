@@ -1035,7 +1035,6 @@ h4 {
 
 /*Modifs*/
 
-.text-center1 {
-    text-align: center;
+.contrast {
+    color: black!important;
 }
-
